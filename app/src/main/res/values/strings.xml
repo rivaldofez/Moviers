@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Moviers</string>
+    <string name="logo_moviers">Logo Moviers</string>
+    <string name="movie_posters">Movie Posters</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="backdrop_image">Backdrop Image</string>
+    <string name="date_title">Tanggal Rilis :</string>
+    <string name="status_title">Status :</string>
+    <string name="eps_title">%1$s\nEPS</string>
+    <string name="studio_title">Studio :</string>
+    <string name="overview_title">Overview</string>
+    <string name="trailer">Trailer</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="detail_tvshow">Detail TV Show</string>
+    <string name="synopsis_title">Synopsis</string>
+    <string name="more_information_title">More Information</string>
+    <string name="original_title">Original Title</string>
+    <string name="home_page">Home Page</string>
+    <string name="budget">Budget</string>
+    <string name="genre">Genre</string>
+    <string name="language">Language</string>
+    <string name="revenue">Revenue</string>
+    <string name="status">Status</string>
+    <string name="episode_run">Latest Run %1$s</string>
+    <string name="season">Season</string>
+    <string name="episode">Episode</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">TV Show</string>
+    <string name="error">There is an error</string>
+    <string name="add_favorite">Added to Favorite List</string>
+    <string name="remove_favorite">Removed from Favorite List</string>
+    <string name="null_message">No data on the list. Add Favorite first</string>
+    <string name="sort_by">Sort By</string>
+    <string name="cd_button_favorite">Button Favorite</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+</resources>

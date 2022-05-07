@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_200">#4e9fc4</color>
+    <color name="primary_500">#007193</color>
+    <color name="primary_700">#004665</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="gainsboro">#e1e2e1</color>
+    <color name="whitesmoke">#f5f5f6</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gold">#f7c30e</color>
+    <color name="cream">#E7CE9C</color>
+    <color name="huegreen">#97BAA6</color>
+</resources>
